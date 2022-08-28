@@ -1,4 +1,3 @@
-﻿@[TOC](目录)
 
 # 1 JFormDesigner 插件介绍
 JFormDesigner是一种先进的图形用户界面Swing 的设计工具（非开源）。具有一个独立的开发工具产品和基于不同开发工具如Eclipse、NetBeans等的开发插件。
