@@ -87,7 +87,8 @@ JFormDesigner插件文件如下
 
 点击 Patch 生成 .bak 文件
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2f5c8e9aef75460d846d55808cfb5744.png)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/9047c1a745b84397a9f7a5b449227b8d.png)
+
 
 如果你看到了上图所示的内容，就代表这一步你成功了。
 
